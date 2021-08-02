@@ -1,0 +1,7 @@
+基于计算机视觉的交通场景智能应用.pptx
+数字图像处理课程实验课程论文.docx
+people/model_data/yolo.h5
+people/yolov3.weights
+transportation/Epoch50-Total_Loss0.1486-Val_Loss0.1510.pth
+transportation/model_data/voc_weights_resnet.pth
+yolov3/yolov3.weights

@@ -1,0 +1,509 @@
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0001.jpg 553,48,574,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0002.jpg 554,51,575,95,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0003.jpg 553,50,575,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0004.jpg 553,47,575,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0005.jpg 552,48,575,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0006.jpg 554,50,574,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0007.jpg 555,49,576,95,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0008.jpg 553,50,574,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0009.jpg 552,49,574,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0010.jpg 551,49,577,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0011.jpg 553,50,573,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0012.jpg 552,49,576,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0013.jpg 554,47,576,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0014.jpg 553,50,578,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0015.jpg 553,49,575,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0016.jpg 554,48,574,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0017.jpg 553,47,573,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0018.jpg 553,48,574,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0019.jpg 552,49,575,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0020.jpg 552,48,575,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0021.jpg 554,44,576,96,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0022.jpg 552,50,576,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0023.jpg 555,53,575,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0024.jpg 553,50,577,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0025.jpg 553,49,576,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0026.jpg 553,49,576,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0027.jpg 549,45,575,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0028.jpg 554,48,575,88,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0029.jpg 552,47,574,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0030.jpg 552,51,574,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0031.jpg 557,48,575,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0032.jpg 552,49,576,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0033.jpg 551,48,576,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0034.jpg 552,48,576,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0035.jpg 554,49,575,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0036.jpg 552,45,573,89,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0037.jpg 553,47,574,95,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0038.jpg 555,45,574,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0039.jpg 552,47,577,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0040.jpg 551,46,577,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0041.jpg 555,49,575,90,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0042.jpg 551,49,576,90,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0043.jpg 551,49,575,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0044.jpg 553,47,574,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0045.jpg 553,49,573,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0046.jpg 551,48,577,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0047.jpg 555,47,574,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0048.jpg 553,50,574,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0049.jpg 553,48,574,90,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0050.jpg 553,45,572,90,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0051.jpg 553,48,576,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0052.jpg 550,48,576,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0053.jpg 554,48,577,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0054.jpg 551,48,576,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0055.jpg 552,47,574,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0056.jpg 553,47,575,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0057.jpg 555,49,573,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0058.jpg 550,49,573,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0059.jpg 552,48,575,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0060.jpg 555,49,572,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0061.jpg 555,49,574,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0062.jpg 555,53,573,90,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0063.jpg 552,48,574,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0064.jpg 554,47,573,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0065.jpg 554,46,573,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0066.jpg 552,48,575,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0067.jpg 553,47,575,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0068.jpg 556,47,575,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0069.jpg 554,46,574,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0070.jpg 554,49,574,89,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0071.jpg 552,50,571,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0072.jpg 554,49,574,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0073.jpg 554,51,573,93,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0074.jpg 554,52,576,93,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0075.jpg 553,51,573,91,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0076.jpg 552,50,576,93,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0077.jpg 555,51,575,92,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0078.jpg 552,52,575,93,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0079.jpg 556,51,576,94,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0080.jpg 554,50,573,92,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0081.jpg 554,52,573,90,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0082.jpg 556,51,576,94,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0083.jpg 553,51,577,93,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0084.jpg 552,50,576,93,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0085.jpg 555,53,574,94,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0086.jpg 554,52,573,95,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0087.jpg 553,50,577,95,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0088.jpg 554,54,575,99,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0089.jpg 554,51,575,102,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0090.jpg 554,54,574,96,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0091.jpg 494,79,503,98,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0092.jpg 553,66,574,106,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0093.jpg 555,60,575,104,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0094.jpg 558,52,575,93,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0095.jpg 560,50,575,92,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0096.jpg 559,54,579,96,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0097.jpg 559,52,577,98,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0098.jpg 557,56,575,98,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0099.jpg 556,57,574,98,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0100.jpg 554,54,572,98,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0101.jpg 552,53,570,95,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0102.jpg 495,73,505,91,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0103.jpg 550,48,567,91,1 184,41,201,90,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0104.jpg 174,40,196,87,0 545,43,567,90,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0105.jpg 166,37,186,85,0 544,42,563,88,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0106.jpg 158,33,179,83,0 539,41,562,89,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0107.jpg 148,33,172,84,0 539,43,557,87,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0108.jpg 140,32,162,81,0 534,36,556,87,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0109.jpg 128,30,158,84,0 533,37,555,84,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0110.jpg 124,26,147,76,0 532,33,554,82,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0111.jpg 116,25,142,77,0 533,30,555,77,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0112.jpg 108,21,133,71,0 533,28,555,79,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0113.jpg 499,68,507,88,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0114.jpg 533,23,557,74,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0115.jpg 533,18,552,70,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0116.jpg 529,18,554,70,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0117.jpg 528,17,553,75,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0118.jpg 528,14,553,71,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0119.jpg 501,67,510,87,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0120.jpg 503,64,512,84,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0121.jpg 506,61,516,85,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0122.jpg 507,64,517,87,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0123.jpg 509,64,520,88,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0124.jpg 514,68,521,89,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0125.jpg 602,125,609,145,1 513,63,524,87,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0126.jpg 518,56,530,84,1 604,120,616,145,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0127.jpg 519,52,530,77,1 610,117,618,138,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0128.jpg 521,46,532,73,1 612,111,621,135,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0129.jpg 522,47,536,73,1 616,112,627,135,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0130.jpg 527,46,539,72,1 620,110,634,136,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0131.jpg 529,46,543,70,1 624,110,638,137,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0132.jpg 593,113,603,138,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0133.jpg 572,107,585,136,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0134.jpg 558,105,568,137,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0135.jpg 544,101,561,133,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0136.jpg 538,96,551,127,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0137.jpg 546,97,560,127,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0138.jpg 576,87,589,121,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0139.jpg 612,86,629,123,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0140.jpg 535,41,545,65,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0141.jpg 541,36,552,60,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0142.jpg 548,35,560,60,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0143.jpg 556,28,567,55,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0144.jpg
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0145.jpg
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0146.jpg
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0147.jpg
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0148.jpg
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0149.jpg
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0150.jpg
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0151.jpg 536,5,547,35,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0152.jpg 544,126,554,147,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0153.jpg 546,125,560,148,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0154.jpg 554,122,563,148,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0155.jpg 562,109,570,130,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0156.jpg 568,111,579,138,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0157.jpg 577,110,586,136,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0158.jpg 578,104,589,135,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0159.jpg 581,90,593,121,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0160.jpg 583,89,595,118,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0161.jpg 585,86,598,116,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0162.jpg 586,87,602,117,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0163.jpg 589,87,603,120,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0164.jpg 591,80,605,113,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0165.jpg 595,76,607,108,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0166.jpg 595,75,608,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0167.jpg 598,74,610,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0168.jpg 598,72,611,109,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0169.jpg 598,83,611,110,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0170.jpg 600,79,614,115,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0171.jpg 601,84,614,114,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0172.jpg 598,83,614,116,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0173.jpg 600,81,614,113,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0174.jpg 601,82,613,115,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0175.jpg 600,81,613,116,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0176.jpg 599,80,612,113,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0177.jpg 601,79,613,111,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0178.jpg 598,80,613,115,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0179.jpg 397,2,412,33,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0180.jpg 400,1,410,35,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0181.jpg 406,4,418,33,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0182.jpg 414,4,429,38,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0183.jpg 421,3,436,34,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0184.jpg 428,5,440,37,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0185.jpg 430,9,445,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0186.jpg 431,6,444,37,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0187.jpg 432,6,446,38,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0188.jpg 430,11,442,37,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0189.jpg 429,11,443,45,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0190.jpg 431,13,445,46,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0191.jpg 431,10,443,39,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0192.jpg 430,9,442,38,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0193.jpg 430,11,443,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0194.jpg 429,10,443,37,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0195.jpg 429,11,444,43,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0196.jpg 431,10,442,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0197.jpg 429,10,444,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0198.jpg 431,11,444,43,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0199.jpg 428,11,443,39,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0200.jpg 429,10,443,43,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0201.jpg 429,12,442,43,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0202.jpg 430,10,442,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0203.jpg 428,13,444,47,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0204.jpg 431,13,443,44,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0205.jpg 430,13,443,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0206.jpg 430,12,443,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0207.jpg 430,13,443,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0208.jpg 429,13,443,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0209.jpg 430,12,443,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0210.jpg 430,13,443,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0211.jpg 430,12,443,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0212.jpg 430,13,443,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0213.jpg 430,12,443,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0214.jpg 431,13,443,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0215.jpg 430,12,443,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0216.jpg 429,12,443,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0217.jpg 429,11,443,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0218.jpg 430,12,443,43,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0219.jpg 430,12,442,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0220.jpg 430,12,442,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0221.jpg 430,12,443,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0222.jpg 431,13,443,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0223.jpg 430,12,443,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0224.jpg 429,12,443,43,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0225.jpg 430,12,443,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0226.jpg 430,12,443,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0227.jpg 430,12,443,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0228.jpg 430,13,443,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0229.jpg 430,12,442,40,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0230.jpg 430,12,442,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0231.jpg 429,13,443,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0232.jpg 430,12,443,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0233.jpg 430,12,443,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0234.jpg 430,12,442,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0235.jpg 430,12,443,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0236.jpg 430,12,443,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0237.jpg 430,13,442,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0238.jpg 430,12,443,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0239.jpg 430,12,443,42,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0240.jpg 430,12,442,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0241.jpg 430,12,443,41,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0242.jpg 431,11,443,40,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0243.jpg 430,11,444,40,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0244.jpg 430,18,442,47,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0245.jpg 426,21,438,51,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0246.jpg 417,21,432,50,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0247.jpg 414,19,426,48,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0248.jpg 417,16,431,45,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0249.jpg 428,7,444,39,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0250.jpg 454,2,467,35,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0251.jpg 479,1,492,31,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0252.jpg 486,1,499,30,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0253.jpg 579,62,596,98,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0254.jpg 601,57,618,98,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0255.jpg 628,38,640,80,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0256.jpg 608,88,624,121,0 173,93,186,125,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0257.jpg 583,88,596,124,0 131,95,145,127,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0258.jpg 570,82,585,116,0 102,87,115,120,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0259.jpg 560,71,576,109,0 77,80,90,114,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0260.jpg 554,64,570,102,0 57,78,69,109,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0261.jpg 551,68,566,106,0 37,79,52,112,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0262.jpg 550,64,566,105,0 25,78,40,113,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0263.jpg 561,62,576,103,0 24,72,41,110,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0264.jpg 563,59,581,101,0 22,72,39,110,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0265.jpg 567,57,584,100,0 20,71,37,109,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0266.jpg 568,58,585,100,0 20,71,35,109,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0267.jpg 569,66,587,108,0 19,80,36,117,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0268.jpg 21,78,36,115,0 569,64,585,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0269.jpg 567,63,586,106,0 18,78,36,117,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0270.jpg 568,64,585,106,0 20,79,36,114,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0271.jpg 20,79,36,116,0 569,64,585,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0272.jpg 19,79,34,115,0 566,63,587,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0273.jpg 569,65,587,106,0 21,78,35,114,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0274.jpg 20,78,36,115,0 570,65,585,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0275.jpg 20,77,35,115,0 567,64,587,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0276.jpg 20,78,36,115,0 568,64,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0277.jpg 20,79,35,114,0 569,64,587,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0278.jpg 20,78,35,116,0 568,64,587,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0279.jpg 20,79,37,115,0 569,63,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0280.jpg 19,77,36,117,0 569,63,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0281.jpg 19,79,36,115,0 570,63,584,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0282.jpg 20,79,35,115,0 569,64,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0283.jpg 19,78,37,116,0 569,64,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0284.jpg 20,77,36,116,0 568,63,587,107,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0285.jpg 19,79,36,115,0 569,64,587,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0286.jpg 20,78,35,115,0 570,64,584,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0287.jpg 20,78,36,116,0 569,63,587,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0288.jpg 19,78,37,116,0 567,64,587,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0289.jpg 19,78,37,116,0 569,64,586,107,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0290.jpg 18,78,36,115,0 567,64,587,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0291.jpg 20,78,34,114,0 568,62,587,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0292.jpg 18,79,36,115,0 569,64,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0293.jpg 20,78,36,115,0 568,63,586,107,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0294.jpg 19,78,36,115,0 567,63,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0295.jpg 20,78,36,114,0 569,63,587,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0296.jpg 20,78,36,115,0 568,64,586,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0297.jpg 19,78,36,116,0 568,64,586,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0298.jpg 20,79,36,114,0 569,64,585,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0299.jpg 19,79,34,114,0 569,64,585,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0300.jpg 19,79,36,116,0 568,64,587,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0301.jpg 20,78,36,116,0 569,64,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0302.jpg 20,78,36,115,0 569,64,586,104,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0303.jpg 20,78,36,114,0 567,64,586,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0304.jpg 21,79,37,114,0 567,63,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0305.jpg 20,78,37,114,0 569,64,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0306.jpg 19,78,35,114,0 567,63,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0307.jpg 20,78,37,115,0 569,64,585,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0308.jpg 21,78,36,114,0 567,63,584,107,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0309.jpg 19,79,35,115,0 569,64,585,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0310.jpg 19,80,35,116,0 570,64,586,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0311.jpg 20,79,36,115,0 570,64,585,104,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0312.jpg 20,78,36,116,0 570,63,585,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0313.jpg 19,79,36,115,0 566,63,585,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0314.jpg 20,79,36,114,0 568,63,587,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0315.jpg 20,78,35,115,0 569,63,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0316.jpg 19,78,37,115,0 569,63,584,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0317.jpg 20,78,36,116,0 569,63,586,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0318.jpg 20,79,36,114,0 569,63,587,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0319.jpg 19,78,36,116,0 568,63,586,104,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0320.jpg 20,78,36,116,0 568,63,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0321.jpg 20,78,37,115,0 568,63,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0322.jpg 19,79,37,116,0 569,63,584,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0323.jpg 20,79,35,115,0 569,63,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0324.jpg 20,78,36,116,0 569,64,585,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0325.jpg 20,78,36,114,0 569,64,585,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0326.jpg 19,79,37,114,0 568,65,583,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0327.jpg 19,79,35,115,0 567,64,585,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0328.jpg 20,78,37,116,0 569,63,585,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0329.jpg 20,77,37,116,0 569,62,585,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0330.jpg 20,78,36,116,0 569,64,585,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0331.jpg 21,78,33,113,0 570,64,584,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0332.jpg 21,78,35,115,0 569,64,583,104,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0333.jpg 20,78,34,115,0 569,63,585,104,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0334.jpg 21,79,33,115,0 570,64,585,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0335.jpg 20,78,34,115,0 569,64,585,104,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0336.jpg 21,79,35,116,0 569,64,584,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0337.jpg 20,78,36,115,0 569,64,585,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0338.jpg 20,78,36,115,0 569,64,586,104,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0339.jpg 20,79,34,115,0 568,64,587,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0340.jpg 20,78,36,116,0 569,64,586,103,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0341.jpg 20,79,36,115,0 569,63,585,104,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0342.jpg 20,79,35,116,0 567,65,586,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0343.jpg 20,78,36,113,0 566,63,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0344.jpg 19,78,36,114,0 569,65,586,103,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0345.jpg 20,78,35,115,0 570,64,585,104,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0346.jpg 20,79,36,114,0 569,64,586,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0347.jpg 21,79,36,113,0 568,63,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0348.jpg 19,78,34,116,0 569,65,587,103,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0349.jpg 20,78,36,115,0 569,64,585,104,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0350.jpg 20,78,34,114,0 569,64,585,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0351.jpg 20,79,35,115,0 569,64,585,104,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0352.jpg 19,77,35,116,0 568,64,586,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0353.jpg 20,78,36,116,0 568,63,585,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0354.jpg 19,79,36,115,0 569,62,585,104,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0355.jpg 21,80,35,114,0 568,63,584,105,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0356.jpg 19,79,36,115,0 569,65,584,106,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0357.jpg 18,79,35,116,0 567,65,584,107,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0358.jpg 20,93,36,129,0 568,78,587,119,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0359.jpg 20,99,37,136,0 573,86,590,125,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0360.jpg 26,91,40,129,0 585,76,600,117,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0361.jpg 34,90,50,126,0 602,75,618,116,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0362.jpg 44,90,60,128,0 627,74,640,114,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0363.jpg 54,82,67,121,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0364.jpg 48,75,63,114,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0365.jpg 36,70,54,112,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0366.jpg 26,65,44,108,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0367.jpg 12,59,31,104,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0368.jpg 1,51,17,95,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0371.jpg 571,52,602,126,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0372.jpg 532,47,565,128,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0373.jpg 502,44,535,124,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0374.jpg 475,44,512,123,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0375.jpg 461,42,493,123,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0376.jpg 449,40,485,123,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0377.jpg 447,39,481,126,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0378.jpg 443,43,479,130,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0379.jpg 427,40,466,126,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0380.jpg 419,38,455,125,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0381.jpg 410,44,449,132,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0382.jpg 377,40,417,134,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0383.jpg 317,36,355,125,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0384.jpg 216,21,260,124,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0390.jpg 576,74,587,108,0 353,58,364,90,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0391.jpg 586,70,601,105,0 351,53,365,89,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0392.jpg 606,63,619,99,0 354,44,369,84,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0393.jpg 620,64,637,103,0 354,42,371,85,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0394.jpg 352,37,369,80,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0395.jpg 346,26,365,72,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0396.jpg 338,14,357,59,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0397.jpg 328,4,350,55,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0398.jpg 316,1,337,49,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0404.jpg 234,94,249,135,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0405.jpg 224,93,238,134,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0406.jpg 212,94,230,136,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0407.jpg 208,95,227,141,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0408.jpg 203,98,223,141,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0409.jpg 200,96,222,144,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0410.jpg 199,103,219,147,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0411.jpg 194,107,216,153,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0412.jpg 181,104,203,157,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0413.jpg 159,100,182,156,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0414.jpg 127,84,151,143,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0415.jpg 72,64,102,135,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0416.jpg 1,44,24,122,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0433.jpg 568,90,578,118,1 385,80,396,108,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0434.jpg 576,94,590,123,1 388,80,398,108,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0435.jpg 385,76,398,106,1 584,92,596,120,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0436.jpg 384,74,396,105,1 591,89,603,119,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0437.jpg 383,70,394,101,1 598,88,609,116,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0438.jpg 379,65,394,98,1 605,83,617,115,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0439.jpg 378,60,390,96,1 613,79,626,113,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0440.jpg 375,53,388,91,1 623,74,637,110,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0441.jpg 367,36,384,76,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0442.jpg 359,34,375,73,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0443.jpg 349,30,369,76,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0444.jpg 345,16,365,66,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0445.jpg 340,1,359,48,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0451.jpg 356,71,368,99,1 574,76,588,107,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0452.jpg 349,66,365,99,1 585,73,600,105,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0453.jpg 597,67,613,103,1 343,59,359,96,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0454.jpg 333,46,349,86,1 611,53,625,92,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0455.jpg 621,41,640,85,1 318,34,337,78,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0456.jpg 304,12,324,60,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0457.jpg 286,4,308,53,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0458.jpg 345,69,358,104,1 579,77,594,111,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0459.jpg 588,64,604,98,1 334,57,349,94,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0460.jpg 598,55,617,95,1 325,47,341,85,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0461.jpg 612,41,628,83,1 312,32,329,76,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0462.jpg 299,23,320,68,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0463.jpg 288,13,308,62,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0475.jpg 581,82,596,114,1 346,72,357,104,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0476.jpg 592,83,606,116,1 340,72,354,107,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0477.jpg 607,87,624,123,1 337,79,350,114,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0478.jpg 329,46,346,85,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0479.jpg 319,31,336,74,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0480.jpg 309,26,328,74,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0481.jpg 294,1,315,48,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0490.jpg 583,72,594,102,1 368,67,378,94,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0492.jpg 375,131,387,161,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0493.jpg 366,55,380,92,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0494.jpg 352,52,367,89,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0495.jpg 336,31,351,73,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0496.jpg 317,17,333,60,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0497.jpg 294,12,312,60,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0498.jpg 275,1,297,50,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0511.jpg 600,78,614,109,1 378,67,388,95,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0512.jpg 608,64,623,96,1 370,55,382,84,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0513.jpg 615,60,632,96,1 360,51,375,84,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0514.jpg 354,59,366,96,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0515.jpg 345,44,360,84,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0516.jpg 334,35,349,79,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0517.jpg 320,9,337,55,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0518.jpg 299,1,321,53,1
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0519.jpg 499,60,513,96,0 224,67,238,103,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0520.jpg 509,51,525,89,0 222,58,237,98,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0521.jpg 521,42,537,84,0 220,49,238,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0522.jpg 528,37,545,81,0 215,43,231,86,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0523.jpg 530,28,548,75,0 204,36,221,80,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0524.jpg 532,25,551,71,0 190,31,212,78,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0525.jpg 537,16,554,64,0 180,25,200,73,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0526.jpg 538,16,556,64,0 168,25,190,71,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0527.jpg 156,24,176,77,0 539,16,559,68,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0528.jpg 543,8,564,63,0 144,15,166,70,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0529.jpg 503,72,515,103,0 365,1,378,30,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0530.jpg 506,69,521,102,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0531.jpg 510,69,524,104,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0532.jpg 513,67,527,102,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0533.jpg 519,64,531,99,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0534.jpg 527,62,540,98,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0535.jpg 530,60,543,98,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0536.jpg 530,58,544,95,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0537.jpg 531,55,544,96,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0538.jpg 537,55,553,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0539.jpg 540,56,555,96,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0540.jpg 542,55,555,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0541.jpg 544,53,557,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0542.jpg 546,55,560,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0543.jpg 546,54,561,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0544.jpg 547,54,562,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0545.jpg 548,53,563,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0546.jpg 547,50,565,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0547.jpg 550,52,566,91,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0548.jpg 551,51,565,90,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0549.jpg 550,52,566,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0550.jpg 552,52,567,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0551.jpg 552,53,567,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0552.jpg 552,52,568,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0553.jpg 552,51,568,95,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0554.jpg 552,53,568,95,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0555.jpg 552,51,568,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0556.jpg 553,52,569,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0557.jpg 553,52,569,95,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0558.jpg 553,54,570,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0559.jpg 554,52,572,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0560.jpg 554,52,569,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0561.jpg 554,51,570,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0562.jpg 554,50,571,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0563.jpg 554,51,571,95,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0564.jpg 554,52,571,96,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0565.jpg 554,51,570,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0566.jpg 555,53,569,92,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0567.jpg 555,52,569,93,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0568.jpg 554,52,571,95,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0569.jpg 555,53,571,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0570.jpg 554,52,572,95,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0571.jpg 555,51,572,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0572.jpg 555,52,571,94,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0573.jpg 555,52,572,95,0
+E:\pycharm\TF1-8/VOCdevkit/VOC2020/Dataset/traffic_light_0574.jpg 554,51,571,93,0
